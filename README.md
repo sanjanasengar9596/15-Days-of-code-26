@@ -36,3 +36,22 @@ Watched lecture 1 ,2 of Chai aur Code on HTML
 
 https://www.youtube.com/watch?v=XmLOwJHFHf0&list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI&index=1
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 2-------
+LEETCODE 1-https://leetcode.com/submissions/detail/2003020229/
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2003031692/
+
+LEETCODE 3-https://leetcode.com/submissions/detail/2003143386/
+
+LEETCODE 4- TLE error 
+
+Watched striver's lecture 10,11,12 of binary search 
+
+https://www.youtube.com/watch?v=cXxmbemS6XM&list=PLF6ChxadzFf8vjafLIxxbKUfarW4V4IOh&index=9
+
+Watched lecture 3 of Chai aur Code on HTML
+
+https://www.youtube.com/watch?v=XmLOwJHFHf0&list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI&index=1
+
+
