@@ -44,7 +44,7 @@ LEETCODE 2-https://leetcode.com/submissions/detail/2003031692/
 
 LEETCODE 3-https://leetcode.com/submissions/detail/2003143386/
 
-LEETCODE 4- TLE error 
+LEETCODE 4- TLE error https://leetcode.com/problems/super-ugly-number/description/?envType=problem-list-v2&envId=array
 
 Watched striver's lecture 10,11,12 of binary search 
 
