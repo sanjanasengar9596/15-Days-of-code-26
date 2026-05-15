@@ -54,4 +54,15 @@ Watched lecture 3 of Chai aur Code on HTML
 
 https://www.youtube.com/watch?v=XmLOwJHFHf0&list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI&index=1
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------DAY 3--------
 
+LEETCODE 1-https://leetcode.com/submissions/detail/2003926745/
+
+
+LEETCODE 2-https://leetcode.com/problems/reverse-integer/submissions/2003931774/
+
+
+Watched lecture 13,14 of striver's binary search
+
+
+https://www.youtube.com/watch?v=cXxmbemS6XM&list=PLF6ChxadzFf8vjafLIxxbKUfarW4V4IOh&index=9
