@@ -67,3 +67,20 @@ Watched lecture 13,14 of striver's binary search
 
 
 https://www.youtube.com/watch?v=cXxmbemS6XM&list=PLF6ChxadzFf8vjafLIxxbKUfarW4V4IOh&index=9
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------DAY 4---------
+
+LEETCODE 1-https://leetcode.com/submissions/detail/2004737757/
+
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2004782149/
+
+
+LEETCODE 3-https://leetcode.com/submissions/detail/2004812372/
+
+
+Watched lecture 15,16 of striver binary search 
+
+
+https://www.youtube.com/watch?v=cXxmbemS6XM&list=PLF6ChxadzFf8vjafLIxxbKUfarW4V4IOh&index=9
+
