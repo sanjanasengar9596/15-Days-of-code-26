@@ -85,7 +85,8 @@ Watched lecture 15,16 of striver binary search
 https://www.youtube.com/watch?v=cXxmbemS6XM&list=PLF6ChxadzFf8vjafLIxxbKUfarW4V4IOh&index=9
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------DAY 5--------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 5--------------
 
 LEETCODE 1-https://leetcode.com/submissions/detail/2005679382/
 
@@ -94,3 +95,18 @@ LEETCODE 2-https://leetcode.com/submissions/detail/2005700514/
 
 
 came to relative's home so I couldn't do more sorry sir
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 6-------------
+
+LEETCODE 1-https://leetcode.com/submissions/detail/2006467423/
+
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2006478664/
+
+
+Watched lecture 17 ,18 of striver binary search 
+
+
+https://www.youtube.com/watch?v=cXxmbemS6XM&list=PLF6ChxadzFf8vjafLIxxbKUfarW4V4IOh&index=9
+
