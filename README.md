@@ -110,3 +110,16 @@ Watched lecture 17 ,18 of striver binary search
 
 https://www.youtube.com/watch?v=cXxmbemS6XM&list=PLF6ChxadzFf8vjafLIxxbKUfarW4V4IOh&index=9
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 7--------------
+
+LEETCODE 1-https://leetcode.com/submissions/detail/2007153668/
+
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2007164174/
+
+
+LEETCODE 3-https://leetcode.com/problems/contains-duplicate-ii/submissions/?envType=problem-list-v2&envId=array (BRUTE FORCE TLE)
+
+
+LEETCODE 4-https://leetcode.com/submissions/detail/2007200572/
