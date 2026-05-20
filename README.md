@@ -123,3 +123,16 @@ LEETCODE 3-https://leetcode.com/problems/contains-duplicate-ii/submissions/?envT
 
 
 LEETCODE 4-https://leetcode.com/submissions/detail/2007200572/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------DAY 8---------------
+
+LEETCODE 1-https://leetcode.com/submissions/detail/2008180959/
+
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2008221441/
+
+
+LEETCODE 3-https://leetcode.com/problems/count-primes/?envType=problem-list-v2&envId=array  (TLE Brute force)
+
+
+LEETCODE 4-https://leetcode.com/submissions/detail/2008377254/
