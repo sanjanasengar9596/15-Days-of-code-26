@@ -138,5 +138,25 @@ LEETCODE 3-https://leetcode.com/problems/count-primes/?envType=problem-list-v2&e
 
 
 LEETCODE 4-https://leetcode.com/submissions/detail/2008377254/
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 DAY 9 --------- Leave (family trip )
+DAY 9-----------(CONTINUATION)
+LEETCODE 1-https://leetcode.com/submissions/detail/2009658250/
+
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2009949590/
+
+
+LEETCODE 3-https://leetcode.com/submissions/detail/2009975393/
+
+
+TLE(BRUTE FORCE) OF FOLLOWING:
+
+
+LEETCODE 4-https://leetcode.com/problems/find-the-duplicate-number/submissions/
+
+
+LEETCODE 5-https://leetcode.com/problems/maximum-product-of-word-lengths/submissions/
+
+
+LEETCODE 6-https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/
