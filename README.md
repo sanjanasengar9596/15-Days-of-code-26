@@ -162,3 +162,17 @@ LEETCODE 5-https://leetcode.com/problems/maximum-product-of-word-lengths/submiss
 
 
 LEETCODE 6-https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 10------------
+
+LEETCODE 1-https://leetcode.com/submissions/detail/2010442450/
+
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2010460057/
+
+
+LEETCODE 3-https://leetcode.com/submissions/detail/2010829825/
+
+
+Watched lecture 19 of striver's binary search 
+
