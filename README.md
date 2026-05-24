@@ -175,4 +175,14 @@ LEETCODE 3-https://leetcode.com/submissions/detail/2010829825/
 
 
 Watched lecture 19 of striver's binary search 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 11-----------
+
+
+LEETCODE 1-https://leetcode.com/submissions/detail/2011809763/
+
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2011828695/
+
+Watched lecture 20 of striver's binary search 
 
