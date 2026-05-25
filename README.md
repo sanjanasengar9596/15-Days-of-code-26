@@ -138,6 +138,7 @@ LEETCODE 3-https://leetcode.com/problems/count-primes/?envType=problem-list-v2&e
 
 
 LEETCODE 4-https://leetcode.com/submissions/detail/2008377254/
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 DAY 9 --------- Leave (family trip )
 DAY 9-----------(CONTINUATION)
@@ -162,6 +163,7 @@ LEETCODE 5-https://leetcode.com/problems/maximum-product-of-word-lengths/submiss
 
 
 LEETCODE 6-https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 DAY 10------------
 
@@ -175,6 +177,7 @@ LEETCODE 3-https://leetcode.com/submissions/detail/2010829825/
 
 
 Watched lecture 19 of striver's binary search 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 DAY 11-----------
 
@@ -185,4 +188,22 @@ LEETCODE 1-https://leetcode.com/submissions/detail/2011809763/
 LEETCODE 2-https://leetcode.com/submissions/detail/2011828695/
 
 Watched lecture 20 of striver's binary search 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 12--------------
+ CP 31 SHEET QUE 1 - https://codeforces.com/problemset/problem/1903/A
+(Solution Screenshot in folder)
+
+
+ LEETCODE 1-https://leetcode.com/submissions/detail/2012483211/
+
+ 
+ LEETCODE 2-https://leetcode.com/submissions/detail/2012522713/
+
+ 
+ LEETCODE 3-https://leetcode.com/submissions/detail/2012542631/
+
+ 
+ WATCHING HTML LECTURE 
+ 
 
