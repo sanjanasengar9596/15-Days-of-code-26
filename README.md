@@ -191,6 +191,8 @@ Watched lecture 20 of striver's binary search
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 DAY 12--------------
+
+
  CP 31 SHEET QUE 1 - https://codeforces.com/problemset/problem/1903/A
 (Solution Screenshot in folder)
 
