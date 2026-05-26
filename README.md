@@ -207,5 +207,23 @@ DAY 12--------------
 
  
  WATCHING HTML LECTURE 
+
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+ DAY 13 -----------
+
+ 
+ LEETCODE 1-https://leetcode.com/submissions/detail/2013573884/
+
+ 
+ LEETCODE 2-https://leetcode.com/submissions/detail/2013699982/
+
+ 
+ LEETCODE 3-https://leetcode.com/submissions/detail/2013810248/
+
+ 
+ LEETCODE 4-https://leetcode.com/problems/132-pattern/submissions/ (TLE Brute force)
+
+ 
+ Watched luv babbr lec 31 on recursion 
  
 
