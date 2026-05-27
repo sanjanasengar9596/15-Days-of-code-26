@@ -225,5 +225,17 @@ DAY 12--------------
 
  
  Watched luv babbr lec 31 on recursion 
- 
 
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+ DAY 14----------
+
+LEETCODE 1-https://leetcode.com/submissions/detail/2014656472/
+
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2014698739/
+
+
+LEETCODE 3-https://leetcode.com/submissions/detail/2014732252/
+
+
+Watched luv babbr lec 32 on recursion 
