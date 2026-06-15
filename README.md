@@ -247,3 +247,18 @@ LEETCODE 1- https://leetcode.com/submissions/detail/2015665111/
 LEETCODE 2 -https://leetcode.com/problems/daily-temperatures/submissions/
 
 Watched luv babbr lec 33 on recursion 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 1-
+Linked lists practice
+
+LEETCODE 1-https://leetcode.com/submissions/detail/2034200649/
+
+LEETCODE 2-https://leetcode.com/submissions/detail/2034115450/
+
+LEETCODE 3-https://leetcode.com/submissions/detail/2034100123/
+
+LEETCODE 4-https://leetcode.com/submissions/detail/2034072923/
+
+CODEFORCES 1-https://codeforces.com/contest/1855/problem/B
+
