@@ -262,3 +262,16 @@ LEETCODE 4-https://leetcode.com/submissions/detail/2034072923/
 
 CODEFORCES 1-https://codeforces.com/contest/1855/problem/B
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 2-
+
+CF 1-https://codeforces.com/problemset/problem/1837/B
+
+CF 2-https://codeforces.com/problemset/problem/1850/D
+
+LC 1-https://leetcode.com/submissions/detail/2035230701/
+
+LC 2-https://leetcode.com/submissions/detail/2035294643/
+
+LC 3-https://leetcode.com/submissions/detail/2035309604/
+
