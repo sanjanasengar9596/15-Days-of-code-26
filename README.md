@@ -275,3 +275,11 @@ LC 2-https://leetcode.com/submissions/detail/2035294643/
 
 LC 3-https://leetcode.com/submissions/detail/2035309604/
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 3-
+
+LC 1-https://leetcode.com/submissions/detail/2036470711/
+
+LC 2-https://leetcode.com/submissions/detail/2036627366/
+
+CF 1-https://codeforces.com/problemset/problem/1828/B
