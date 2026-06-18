@@ -285,3 +285,16 @@ LC 2-https://leetcode.com/submissions/detail/2036627366/
 LC 3-https://leetcode.com/submissions/detail/2036712101/
 
 CF 1-https://codeforces.com/problemset/problem/1828/B
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 4-
+
+https://leetcode.com/submissions/detail/2037801182/
+
+https://leetcode.com/submissions/detail/2037992295/
+
+CODEFORCES CP 31 
+
+https://codeforces.com/contest/1726/problem/A
+
+https://codeforces.com/problemset/problem/1696/B
+
