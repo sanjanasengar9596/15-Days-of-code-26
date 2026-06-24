@@ -317,3 +317,11 @@ https://codeforces.com/problemset/problem/1624/B
 https://codeforces.com/problemset/problem/1665/B
 
 https://leetcode.com/submissions/detail/2040060085/
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 7-
+https://codeforces.com/problemset/problem/1582/B
+
+https://codeforces.com/problemset/problem/1593/B
+
+https://leetcode.com/submissions/detail/2044723593/66
