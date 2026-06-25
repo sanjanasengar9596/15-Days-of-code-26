@@ -325,3 +325,10 @@ https://codeforces.com/problemset/problem/1582/B
 https://codeforces.com/problemset/problem/1593/B
 
 https://leetcode.com/submissions/detail/2044723593/66
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------DAY 8-
+https://codeforces.com/problemset/problem/1543/A
+
+https://codeforces.com/contest/1537/problem/B
+
+https://codeforces.com/problemset/problem/1475/A
