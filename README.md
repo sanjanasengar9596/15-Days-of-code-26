@@ -332,3 +332,9 @@ https://codeforces.com/problemset/problem/1543/A
 https://codeforces.com/contest/1537/problem/B
 
 https://codeforces.com/problemset/problem/1475/A
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 9-
+https://codeforces.com/problemset/problem/1380/A
+
+https://codeforces.com/problemset/problem/1373/B
