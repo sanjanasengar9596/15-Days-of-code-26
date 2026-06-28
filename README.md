@@ -339,10 +339,17 @@ https://codeforces.com/problemset/problem/1380/A
 
 https://codeforces.com/problemset/problem/1373/B
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DAY 10-
 https://codeforces.com/contest/1374/problem/B
 
 https://codeforces.com/contest/1440/problem/B
 
 https://codeforces.com/contest/2240/problem/A
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------DAY 11-
+https://leetcode.com/submissions/detail/2049155542/
+
+https://codeforces.com/problemset/problem/1883/C
+
+https://codeforces.com/problemset/problem/1913/B
