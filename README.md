@@ -347,9 +347,19 @@ https://codeforces.com/contest/1440/problem/B
 
 https://codeforces.com/contest/2240/problem/A
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------DAY 11-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 11-
 https://leetcode.com/submissions/detail/2049155542/
 
 https://codeforces.com/problemset/problem/1883/C
 
 https://codeforces.com/problemset/problem/1913/B
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 12-
+
+https://codeforces.com/problemset/problem/1876/A
+
+https://codeforces.com/problemset/problem/1859/B
+
+https://codeforces.com/problemset/problem/1840/C
