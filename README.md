@@ -363,3 +363,10 @@ https://codeforces.com/problemset/problem/1876/A
 https://codeforces.com/problemset/problem/1859/B
 
 https://codeforces.com/problemset/problem/1840/C
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 13-
+
+https://codeforces.com/problemset/problem/1765/M
+https://codeforces.com/problemset/problem/2241/A
+https://codeforces.com/problemset/problem/1831/B
