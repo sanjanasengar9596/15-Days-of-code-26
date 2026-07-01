@@ -370,3 +370,9 @@ DAY 13-
 https://codeforces.com/problemset/problem/1765/M
 https://codeforces.com/problemset/problem/2241/A
 https://codeforces.com/problemset/problem/1831/B
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 14-
+https://codeforces.com/problemset/problem/1791/D
+https://codeforces.com/problemset/problem/1744/C
+https://codeforces.com/problemset/problem/1725/B
